@@ -1,13 +1,4 @@
 <!DOCTYPE html>
-<?php
-if(isset($_POST['grade'])){
-$grade=$_POST['grade'];
-$aindice=$_POST['aindice'];
-$ancienneteechelon=$_POST['ancienneteechelon'];
-$ancienneteservicean=$_POST['ancienneteservicean'];
-$ancienneteservicemois=$_POST['ancienneteservicemois'];
-}
-?>
 
 <html>
 <head>
